@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background: rgb(71, 171, 218);
 }
 
 #container {
@@ -8,13 +9,14 @@ body {
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    border-radius: 5px;
 }
 
 #inputField {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
+    border-radius: 5px;
+    background: rgb(153, 243, 224);
 }
 
 #wordList {
